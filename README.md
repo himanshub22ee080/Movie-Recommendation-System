@@ -5,5 +5,7 @@ This repository contains a Movie Recommendation System built using cosine simila
 
 ****Features****
 **Content-Based Filtering:** Recommends movies based on the similarity of their features.
+
 **Cosine Similarity:** Measures the cosine of the angle between two non-zero vectors of an inner product space.
+
 **Interactive User Interface:** Provides a simple and user-friendly interface for interacting with the recommendation system.
