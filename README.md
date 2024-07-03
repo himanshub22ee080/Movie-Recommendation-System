@@ -3,7 +3,7 @@
 # Overview
 
 This repository contains a Movie Recommendation System built using cosine similarity. The system recommends movies to users based on the similarity of movie descriptions or other features. The dataset used for this project is the TMDB dataset from Kaggle, which you can find here.
-[tmdb dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+<a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata" target="_blank">here</a>
 
 # Features
 **Content-Based Filtering:**   Recommends movies based on the similarity of their features.
